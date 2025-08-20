@@ -1,7 +1,16 @@
+using ProjetoLoja.Repositorio;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Registrar Repositórios
+builder.Services.AddScoped<ProdutoRepositorio>();
+
+builder.Services.AddScoped<CarrinhoRepositorio>();
+
+builder.Services.AddScoped<PedidoRepositorio>();
 
 var app = builder.Build();
 
