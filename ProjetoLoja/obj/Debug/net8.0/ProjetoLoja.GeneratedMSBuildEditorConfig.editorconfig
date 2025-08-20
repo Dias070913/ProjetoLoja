@@ -18,12 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\3ds\Desktop\ProjetoLoja\ProjetoLoja
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/3ds/Desktop/ProjetoLoja/ProjetoLoja/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[C:/Users/3ds/Desktop/ProjetoLoja/ProjetoLoja/Views/Carrinho/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FycmluaG9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/3ds/Desktop/ProjetoLoja/ProjetoLoja/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/3ds/Desktop/ProjetoLoja/ProjetoLoja/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/3ds/Desktop/ProjetoLoja/ProjetoLoja/Views/Shared/Error.cshtml]
