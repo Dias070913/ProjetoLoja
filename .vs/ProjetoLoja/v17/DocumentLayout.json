@@ -78,8 +78,7 @@
               "RelativeToolTip": "ProjetoLoja\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-27T10:31:35.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-27T10:31:35.442Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "RelativeToolTip": "ProjetoLoja\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T11:32:01.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T11:32:01.804Z"
             },
             {
               "$type": "Document",
@@ -104,8 +102,7 @@
               "RelativeToolTip": "ProjetoLoja\\Views\\Carrinho\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-20T11:02:31.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T11:02:31.915Z"
             },
             {
               "$type": "Document",
@@ -117,8 +114,7 @@
               "RelativeToolTip": "ProjetoLoja\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T11:01:48.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T11:01:48.028Z"
             },
             {
               "$type": "Document",
@@ -128,7 +124,7 @@
               "RelativeDocumentMoniker": "ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
               "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoLoja\\ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
               "RelativeToolTip": "ProjetoLoja\\Repositorio\\ProdutoRepositorio.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T10:42:09.115Z",
               "EditorCaption": ""
@@ -143,8 +139,7 @@
               "RelativeToolTip": "ProjetoLoja\\Repositorio\\PedidoRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:41:54.269Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:41:54.269Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "ProjetoLoja\\Repositorio\\CarrinhoRepositorio.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:41:31.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:41:31.962Z"
             },
             {
               "$type": "Document",
@@ -169,8 +163,7 @@
               "RelativeToolTip": "ProjetoLoja\\Models\\Produto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:40:34.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:40:34.087Z"
             },
             {
               "$type": "Document",
@@ -182,8 +175,7 @@
               "RelativeToolTip": "ProjetoLoja\\Models\\Pedido.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:40:26.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:40:26.972Z"
             },
             {
               "$type": "Document",
@@ -195,8 +187,7 @@
               "RelativeToolTip": "ProjetoLoja\\Models\\ItemPedido.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:40:12.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:40:12.167Z"
             },
             {
               "$type": "Document",
@@ -208,8 +199,7 @@
               "RelativeToolTip": "ProjetoLoja\\Models\\ItemCarrinho.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:39:57.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:39:57.434Z"
             },
             {
               "$type": "Document",
@@ -221,8 +211,7 @@
               "RelativeToolTip": "ProjetoLoja\\Controllers\\PedidoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:39:21.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:39:21.747Z"
             },
             {
               "$type": "Document",
@@ -234,8 +223,7 @@
               "RelativeToolTip": "ProjetoLoja\\Controllers\\CarrinhoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:39:01.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:39:01.749Z"
             },
             {
               "$type": "Document",
@@ -247,8 +235,7 @@
               "RelativeToolTip": "ProjetoLoja\\Controllers\\ProdutoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:38:32.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:38:32.65Z"
             }
           ]
         }
