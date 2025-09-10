@@ -1,6 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProjetoLoja.Repositorio;
-using ProjetoLoja3d.Repositorio;
 
 namespace ProjetoLoja.Controllers
 {
