@@ -92,7 +92,7 @@
               "RelativeDocumentMoniker": "ProjetoLoja\\Models\\Produto.cs",
               "ToolTip": "C:\\Users\\3ds\\Desktop\\ProjetoLoja\\ProjetoLoja\\Models\\Produto.cs",
               "RelativeToolTip": "ProjetoLoja\\Models\\Produto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T10:40:34.087Z",
               "EditorCaption": ""
@@ -107,8 +107,7 @@
               "RelativeToolTip": "ProjetoLoja\\Repositorio\\CarrinhoRepositorio.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAwwAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:41:31.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:41:31.962Z"
             },
             {
               "$type": "Document",
@@ -168,8 +167,7 @@
               "RelativeToolTip": "ProjetoLoja\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T11:32:01.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T11:32:01.804Z"
             },
             {
               "$type": "Document",
@@ -193,8 +191,7 @@
               "RelativeToolTip": "ProjetoLoja\\Controllers\\CarrinhoController.cs",
               "ViewState": "AQIAACEAAAAAAAAAAAAowAEAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T10:39:01.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T10:39:01.749Z"
             },
             {
               "$type": "Document",
